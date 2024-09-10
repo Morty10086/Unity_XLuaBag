@@ -1,0 +1,8 @@
+[
+{"id":1,"name":"弓箭","icon":"Icon_2","type":1,"tips":"远程武器"},
+{"id":2,"name":"手套","icon":"Icon_1","type":1,"tips":"物理抗性增加5%"},
+{"id":3,"name":"魔法药","icon":"Icon_3","type":2,"tips":"回复少量魔法值"},
+{"id":4,"name":"回复药","icon":"Icon_4","type":2,"tips":"缓慢回复生命值，持续一段时间"},
+{"id":5,"name":"红宝石","icon":"Icon_5","type":3,"tips":"提升武器攻击力"},
+{"id":6,"name":"蓝宝石","icon":"Icon_6","type":4,"tips":"增加魔法值上限"}
+]
